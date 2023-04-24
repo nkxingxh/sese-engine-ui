@@ -93,7 +93,7 @@ More info see [.github/workflows/gh-pages.yml](https://github.com/YunYouJun/sese
 
 - 搜索引擎：`色色引擎`
 - 快捷字词：`sese`
-- 网址格式：`https://sese.yyj.moe/search?q=%s`
+- 网址格式：`https://se.ntr6.gay/search?q=%s`
 
 以后使用浏览器只要先输入 `sese`，再输入 `关键词`，就可以快速切换为色色引擎搜索啦！
 
