@@ -1,9 +1,11 @@
-<p align='center'>
-  <img src='./public/sese-rimo-and-xiao-yun.png' alt='Sese Search UI' />
-</p>
+## 关于本站
+
+本站使用开源的搜索引擎部署，你可以在下面找到项目地址与介绍说明。
+
+## 介绍
 
 <p align='center'>
-<a href="http://sese.yyj.moe/">Live Demo (sese.yyj.moe)</a>
+  <img src='./public/sese-rimo-and-xiao-yun.png' alt='Sese Search UI' />
 </p>
 
 <br>
