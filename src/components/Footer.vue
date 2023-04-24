@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { bannerUrl } from '~/config'
+// import { bannerUrl } from '~/config'
 
 const { t } = useI18n()
 </script>
